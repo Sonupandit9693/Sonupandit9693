@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonu kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.steemitimages.com%2FDQmVpCBqJDxWxNGjb4brwtHECXMfrkZkhP3kcYGHAhoYVJS%2Fcover-5%2520(1).gif&tbnid=p6YRUBTpD1WsSM&vet=12ahUKEwi7oZbAi8X_AhW9PbcAHfVhDpAQMyg1egQIARBU..i&imgrefurl=https%3A%2F%2Fsteemit.com%2Futopian-io%2F%40steemgg%2Fsteemgg-is-open-source-yes&docid=w6Z_5BHwp0UL9M&w=1280&h=720&q=open%20source%20coder%20gif&ved=2ahUKEwi7oZbAi8X_AhW9PbcAHfVhDpAQMyg1egQIARBU" align="right" width="400px"/>
+<img align="right" width="400px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.steemitimages.com%2FDQmVpCBqJDxWxNGjb4brwtHECXMfrkZkhP3kcYGHAhoYVJS%2Fcover-5%2520(1).gif&tbnid=p6YRUBTpD1WsSM&vet=12ahUKEwi7oZbAi8X_AhW9PbcAHfVhDpAQMyg1egQIARBU..i&imgrefurl=https%3A%2F%2Fsteemit.com%2Futopian-io%2F%40steemgg%2Fsteemgg-is-open-source-yes&docid=w6Z_5BHwp0UL9M&w=1280&h=720&q=open%20source%20coder%20gif&ved=2ahUKEwi7oZbAi8X_AhW9PbcAHfVhDpAQMyg1egQIARBU" alt="" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonupandit9693&label=Profile%20views&color=0e75b6&style=flat" alt="sonupandit9693" /> </p>
 
