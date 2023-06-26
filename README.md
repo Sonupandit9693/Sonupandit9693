@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 👨‍💻 All of my projects are available at [https://sonuportfolio23.netlify.app/](https://sonuportfolio23.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sonukumardev.netlify.app/](https://sonukumardev.netlify.app/)
 
 - 💬 Ask me about **Node.js, React, Postgresql, MongoDB Etc.**
 
