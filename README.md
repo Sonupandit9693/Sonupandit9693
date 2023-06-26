@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sonu kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/mern-stack-developer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonupandit9693&label=Profile%20views&color=0e75b6&style=flat" alt="sonupandit9693" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonupandit9693" alt="sonupandit9693" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/mern-stack-developer.gif">
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
