@@ -7,15 +7,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonupandit9693" alt="sonupandit9693" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/mern-stack-developer.gif">
 
-- 🔭 I’m currently working on **MERN Stack Projects**
+- 🔭 I’m currently working on **Frappe/Erpnext Developement in Specially with CRM **
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **Amazon Web Services && System Design**
 
 - 👨‍💻 All of my projects are available at [https://sonukumardev.netlify.app/](https://sonukumardev.netlify.app/)
 
-- 💬 Ask me about **Node.js, React, Postgresql, MongoDB Etc.**
+- 💬 Ask me about **Frappe, Erpnext, CRM, Digital Ocean, Node.js, React, Postgresql, MongoDB Etc.**
 
-- 📫 How to reach me **sonupandit969371@gmail.com**
+- 📫 How to reach me **sonukumarcode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
