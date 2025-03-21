@@ -19,5 +19,5 @@ I'm a **Software Developer** with experience in designing and developing scalabl
 
 ## 📫 Contact Me
 - Email: sonu.kumar3@cyfuture.com
-- LinkedIn: [linkedin.com/in/sonukumar](https://www.linkedin.com/in/sonukumar)
-- GitHub: [github.com/SonuKumar3](https://github.com/SonuKumar3)
+- LinkedIn: [linkedin.com/in/sonukumar](https://www.linkedin.com/in/sonukumarpandit/)
+- GitHub: [github.com/SonuKumar3](https://github.com/Sonupandit9693)
