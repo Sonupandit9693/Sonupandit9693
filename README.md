@@ -3,20 +3,14 @@
 ## 🚀 About Me
 I'm a **Software Developer** with experience in designing and developing scalable applications using **Spring Boot (Java), Python, Go, and JavaScript**. I specialize in building **microservices-based architectures** and optimizing backend performance.
 
-## 🔧 Skills & Technologies
-- **Backend:** Spring Boot (Java), Python (Django/Flask/FastAPI/Frappe),Go, Node.js (Express)
-- **Frontend:** React.js, Next.js
-- **Databases:** PostgreSQL, MySQL, MongoDB, MariaDB
-- **Cloud & DevOps:** Docker,Nginx, Kubernetes, AWS (EC2), CI/CD, GCP
-- **Messaging & Streaming:** Kafka, RabbitMQ
-- **Other:** WebRTC, OAuth, REST APIs, GraphQL
-
-## 💼 Work Experience
-- **Cyfuture India Pvt Ltd** – Software Developer
-  - Worked on various projects involving microservices, API integrations, and cloud-native applications.
-  - Implemented secure authentication and authorization mechanisms.
-  - Optimized high-performance backend systems for scalability and reliability.
-
 ## 📫 Contact Me
-- Email: sonu.kumar3@cyfuture.com
+- Email: sonukumarcode.com
 - LinkedIn: [linkedin.com/in/sonukumar](https://www.linkedin.com/in/sonukumarpandit/)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sonupandit9693" alt="Sonupandit9693" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonupandit9693&show_icons=true&locale=en&layout=compact" alt="Sonupandit9693" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sonupandit9693&show_icons=true&locale=en" alt="Sonupandit9693" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonupandit9693&" alt="Sonupandit9693" /></p>
