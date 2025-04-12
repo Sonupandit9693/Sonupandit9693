@@ -1,16 +1,24 @@
-# 👋 Hi, I'm Sonu Kumar
+### Hi there 👋
 
-## 🚀 About Me
-I'm a **Software Developer** with experience in designing and developing scalable applications using **Spring Boot (Java), Python, Go, and JavaScript**. I specialize in building **microservices-based architectures** and optimizing backend performance.
+#### I'm Sonu Kumar
 
-## 📫 Contact Me
-- Email: sonukumarcode.com
-- LinkedIn: [linkedin.com/in/sonukumar](https://www.linkedin.com/in/sonukumarpandit/)
+##### BIO
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sonupandit9693" alt="Sonupandit9693" /></a> </p>
+- 💡 Engineering has been a constant curiosity for me, always pushing me to explore new solutions.  
+- 👨‍💻 I enjoy coding and building products end to end.  
+- 🌍 Always eager to learn, experiment, and grow through real-world challenges.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonupandit9693&show_icons=true&locale=en&layout=compact" alt="Sonupandit9693" /></p>
+##### TECHY BIO
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sonupandit9693&show_icons=true&locale=en" alt="Sonupandit9693" /></p>
+- 🧪 Currently exploring the [Apache Superset](https://github.com/apache/superset) project  
+- 🛠️ Experienced in working with and building on top of **Frappe-based systems**  
+- 🤖 Software Developer at [Cyfuture](https://cyfuture.com/)  
+- ⌨️ I use daily: `.py`, `.js`, `.yaml`, `.html`, `.css`, `.java` — with a passion for `Python`, `Java`, and `React.js`  
+- 👨‍💻 Coding for the past 2.5+ years and loving every bit of it  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonupandit9693&" alt="Sonupandit9693" /></p>
+##### GET IN TOUCH
+
+- 💬 Ping me about **development**, **analytics**, **design**, and **cold coffee** 🧊☕  
+- 📫 Reach me at: [x.com/SonuKum29372459](https://x.com/SonuKum29372459) or **sonukumarcode@gmail.com**
+
+🌱 Exploring the **open source** world — learning every day
