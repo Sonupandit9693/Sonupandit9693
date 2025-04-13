@@ -12,7 +12,7 @@
 
 - 🧪 Currently exploring the [Apache Superset](https://github.com/apache/superset) project  
 - 🛠️ Experienced in working with and building on top of **Frappe-based systems**  
-- 🤖 Software Developer at [Cyfuture](https://cyfuture.com/)  
+- 🤖 Software Development Engineer at [Cyfuture](https://cyfuture.com/)  
 - ⌨️ I use daily: `.py`, `.js`, `.yaml`, `.html`, `.css`, `.java` — with a passion for `Python`, `Java`, and `React.js`  
 - 👨‍💻 Coding for the past 2.5+ years and loving every bit of it  
 
