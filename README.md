@@ -4,21 +4,22 @@
 
 ##### BIO
 
-- 💡 Engineering has been a constant curiosity for me, always pushing me to explore new solutions.  
-- 👨‍💻 I enjoy coding and building products end to end.  
-- 🌍 Always eager to learn, experiment, and grow through real-world challenges.
+* 💡 Engineering has always been a source of curiosity for me — constantly pushing me to explore innovative solutions.
+* 👨‍💻 I enjoy building products end-to-end, from backend architecture to frontend experiences.
+* 🌍 Continuously learning, experimenting, and growing through real-world challenges.
 
 ##### TECHY BIO
 
-- 🧪 Currently exploring the [Apache Superset](https://github.com/apache/superset) project  
-- 🛠️ Experienced in working with and building on top of **Frappe-based systems**  
-- 🤖 Software Development Engineer at [Cyfuture](https://cyfuture.com/)  
-- ⌨️ I use daily: `.py`, `.js`, `.yaml`, `.html`, `.css`, `.java` — with a passion for `Python`, `Java`, and `React.js`  
-- 👨‍💻 Coding for the past 2.5+ years and loving every bit of it  
+* 🧪 Currently exploring [Apache Superset](https://github.com/apache/superset) for data exploration and visualization
+* 🛠️ Hands-on experience in building scalable applications using **Java Spring Boot**, **Python**, and **JavaScript/TypeScript**
+* 💻 Working professionally as a **Software Development Engineer** at [Cyfuture](https://cyfuture.com/)
+* ⚙️ Tech I use daily: `.py`, `.js`, `.ts`, `.jsx`, `.java`, `.yaml`, `.html`, `.css`
+* 🚀 Actively developing with frameworks like **Next.js**, **React.js**, and **Spring Boot**
+* 👨‍💻 Coding for the past 2.5+ years and loving every bit of the journey
 
 ##### GET IN TOUCH
 
-- 💬 Ping me about **development**, **analytics**, **design**, and **cold coffee** 🧊☕  
-- 📫 Reach me at: [x.com/SonuKum29372459](https://x.com/SonuKum29372459) or **sonukumarcode@gmail.com**
+* 💬 Let’s chat about **full-stack development**, **data visualization**, **system design**, and of course, **cold coffee** 🧊☕
+* 📫 Reach me at: [x.com/SonuKum29372459](https://x.com/SonuKum29372459) or **[sonukumarcode@gmail.com](mailto:sonukumarcode@gmail.com)**
 
-🌱 Exploring the **open source** world — learning every day
+🌱 Exploring the **open-source** world — learning something new every day
