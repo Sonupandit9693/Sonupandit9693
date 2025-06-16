@@ -26,7 +26,6 @@
 * 🛠️ Hands-on experience in building scalable applications using **Python**, **FastAPI**, **Flask**, **Frappe**, **Next.js**, **JavaScript/TypeScript**
 * 💻 Working professionally as a **Software Development Engineer** at [Cyfuture](https://cyfuture.com/)
 * ⚙️ Tech I use daily: `.py`, `.js`, `.ts`, `.jsx`, `.java`, `.yaml`, `.html`, `.css`
-* 🚀 Actively developing with frameworks like **Next.js**, **React.js**, and **Spring Boot**
 * 👨‍💻 Coding for the past 2.5+ years and loving every bit of the journey
 
 ---
