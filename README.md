@@ -12,23 +12,25 @@
 
 ---
 
-### BIO
+### 🧠 About Me
 
-* 💡 Engineering has always been a source of curiosity for me — constantly pushing me to explore innovative solutions.
-* 👨‍💻 I enjoy building products end-to-end, from backend architecture to frontend experiences.
-* 🌍 Continuously learning, experimenting, and growing through real-world challenges.
-
----
-
-### TECHY BIO
-
-* 🧪 Currently exploring [Apache Superset](https://github.com/apache/superset) for data exploration and visualization
-* 🛠️ Hands-on experience in building scalable applications using **Python**, **FastAPI**, **Flask**, **Frappe**, **Next.js**, **JavaScript/TypeScript**
-* 💻 Working professionally as a **Software Development Engineer** at [Cyfuture](https://cyfuture.com/)
-* ⚙️ Tech I use daily: `.py`, `.js`, `.ts`, `.jsx`, `.java`, `.yaml`, `.html`, `.css`
-* 👨‍💻 Coding for the past 2.5+ years and loving every bit of the journey
+* 🚀 Python Developer with 2+ years experience building scalable backends, microservices, and AI-integrated systems.
+* 🧠 Integrated GenAI tools like Whisper & GPT-4 in real-world applications.
+* 👨‍💻 Currently working at **Cyfuture** as a Software Development Engineer.
+* 💡 Passionate about building clean APIs, system design, and cloud-native apps using Docker & Kubernetes.
+* 🧊 Cold coffee lover who thinks best in terminal themes ☕️
 
 ---
+
+### 🛠️ Tech Stack
+
+```yaml
+Languages: Python, JavaScript, TypeScript, Java, Shell
+Frameworks: FastAPI, Flask, Django, Frappe, Next.js
+Cloud & DevOps: Docker, Kubernetes, Azure DevOps, AWS, CI/CD, Jenkins, Terraform
+Databases: PostgreSQL, MySQL, MongoDB, Redis, Cosmos DB (familiar)
+Other Tools: Celery, RabbitMQ, gRPC, JWT, PyTest, Git
+
 
 ### 🌐 Connect with Me
 
@@ -37,13 +39,14 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sonukumarcode@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonupandit9693/)
 
-💬 Let’s chat about **full-stack development**, **data visualization**, **system design**, and of course, **cold coffee** 🧊☕
+💭 Let’s chat about GenAI projects, backend architecture, system design, or even cold coffee debates 🧳️
 
 ---
 
 ### 🌱 Currently
 
-- Exploring the **open-source** world — learning something new every day
+-Exploring open-source contributions in DevOps, GenAI, and FastAPI-based backend tooling.
+-Learning more about Apache Superset and advanced Kubernetes operator patterns.
 
 ---
 
