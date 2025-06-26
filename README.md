@@ -23,13 +23,13 @@
 ---
 
 ### 🛠️ Tech Stack
-
+```yaml
 Languages: Python, JavaScript, TypeScript, Java, Shell
 Frameworks: FastAPI, Flask, Django, Frappe, Next.js
 Cloud & DevOps: Docker, Kubernetes, Azure DevOps, AWS, CI/CD, Jenkins, Terraform
 Databases: PostgreSQL, MySQL, MongoDB, Redis, Cosmos DB (familiar)
 Other Tools: Celery, RabbitMQ, gRPC, JWT, PyTest, Git
-
+```
 
 ### 🌐 Connect with Me
 
